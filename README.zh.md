@@ -3118,7 +3118,7 @@ dsh plugin --profile web add dshmarket
 - [kingdawangXTA/dsh-pixel-crt](https://github.com/kingdawangXTA/dsh-pixel-crt) — 会话框的深色 CRT 像素皮肤：硬边框、方块阴影与点阵标题，只作用于聊天区和输入区。
 - [kinglhy2006/dsh-crt-theme](https://github.com/kinglhy2006/dsh-crt-theme) — 深色磷光绿 CRT 终端皮肤，带扫描线和等宽字体，用于 DeepSeek Harness。另在侧栏加仪表盘：输出速度、CPU/内存与 DeepSeek 余额；密钥只留在宿主进程。
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) — 自适应推理等级滑块皮肤，将当前模型可用档位映射到 0–30 视觉强度，并同步人物、背景和界面配色。
-- [kleinklein0824/dsh-official-skin](https://github.com/kleinklein0824/dsh-official-skin) — 灵感来源于 DeepSeek 官网的 DSH Web 与 Desktop 皮肤：深色模式提供流体极光、粒子鲸鱼与星座背景，浅色模式采用蓝色玻璃质感，通过单一主题按钮切换并同步宿主外观设置，标题栏配色适配深浅色主题。
+- [kleinklein0824/dsh-official-skin](https://github.com/kleinklein0824/dsh-official-skin) — 灵感来源于 DeepSeek 官网的 DSH Web 与 Desktop 皮肤：深色极光、粒子鲸鱼与星座背景，浅色玻璃主题，单一按钮同步宿主外观设置及标题栏配色；1.1.8 版已完成 DSH 0.2.2-rc.3 的源码、宿主兼容检查及隔离 React/DOM 验证。
 - [kviiinh/dsh-whale-particles-bg](https://github.com/kviiinh/dsh-whale-particles-bg) — 为 DSH Web 界面加的一层动态鲸鱼背景：由鲸鱼剪影采样出的粒子场，加上一层点阵网格，两者都是挂在 shell.overlay 上的全屏点击穿透 canvas；粒子加载时聚合、空闲时呼吸、指针靠近时被推开，网格点靠近指针会放大，配色跟随页面明暗主题。
 - [L-eleven-1/dsh-wallpapers](https://github.com/L-eleven-1/dsh-wallpapers) — 应用奶皇新外观预设，支持设置备份与恢复。它是 elysia395/dsh-wallpaper-engine 1.4.0 的预设，需先装该插件并备好奶皇新壁纸（工坊 3808236079）。
 - [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin) — 为 DSH Web 设置背景：上传本地图片或选择预设氛围，实时预览且设置持久化。
